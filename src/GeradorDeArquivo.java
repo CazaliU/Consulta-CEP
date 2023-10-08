@@ -13,5 +13,4 @@ public class GeradorDeArquivo {
         escrita.write(gson.toJson(endereco));
         escrita.close();
     }
-    //teste commit
 }
